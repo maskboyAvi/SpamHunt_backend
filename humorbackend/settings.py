@@ -76,7 +76,7 @@ WSGI_APPLICATION = "humorbackend.wsgi.application"
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:3000",
-    "https://maskboyavi.github.io/SpamHunt_frontend/"
+    "https://maskboyavi.github.io"
 ]
 CORS_ALLOWED_METHODS = [
     "DELETE",  # Add DELETE to the list of allowed methods
